@@ -1,7 +1,10 @@
 .cache/
 __pycache__/
 .venv/
+
+# Generated runs and checkpoints
 results/
+
 .env
 .env.*
 *.gguf
